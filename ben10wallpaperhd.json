@@ -1,0 +1,605 @@
+{
+  "Ads":[
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+
+      "main_ads_banner": "ca-app-pub-4363364924806206/7502010830",
+      "main_ads_intertitial":"ca-app-pub-4363364924806206/6380500850",
+      "main_native_ads_Admob_or_applovin":"ca-app-pub-4363364924806206/7502010830",
+      "main_ads_rewards":"ca-app-pub-4363364924806206/4253030961",
+
+      "backup_ads_banner":"42e35d8246d47401",
+      "backup_ads_intertitial":"30d7107cca59d782",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_rewards":"159d0269cb473080",
+
+      "interval_for_native":"6",
+      "interval_intertitial": 2,
+      "survey_api_key":"REPLACE_WITH_YOUR_API_KEY",
+
+      "on_off_survey":"0",
+      "default_coins": 300,
+      "reward_coins_video": 100,
+      "reward_coins_survey": 250,
+      "use_coins_download": 50,
+
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+
+      "high_paying_keyword_1": "insurance",
+      "high_paying_keyword_2": "property",
+      "high_paying_keyword_3": "finance",
+      "high_paying_keyword_4": "sport",
+      "high_paying_keyword_5": "loans",
+
+      "status_app": "0",
+      "link_redirect": "https://",
+
+      "link_moreapp":"https://play.google.com/store/apps/developer?id=Indah+Gemilang+Jaya",
+
+      "contact_email":"pwksyariahpos@gmail.com",
+
+      "link_privacy": "file:///android_asset/privacy_policy.html",
+
+      "on_off_category_more":"2",
+
+      "on_off_protect_app": "false",
+      "license_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs+NhgLNG4BomHLhrDREbVGcig/3MKsEB/VXHrLeZXIHQCfjS5piUGn1lc5732WVfRHwCDTnISuMcS6msd2o8soJXuvbJFcZMAuEeEiRbFi90o1dxHpXk6COcKJc33Fh8T3F1Tk7UeN+t+xuVTQAFqIhczIP9ZdTv0so69BHBl1gFVNM24isp+G9etA8Y2JXUR3e6hJcB03d7lux+XFG7vhe7owZmu+gHDkycjvFYLAhp8KvgpAdZCgAIrEQyRt+GAOcKnS1tKtHs11ilelO1BveywfD4MounPwPLOqKIeoMmfZoHkhrDH1jIm9fVNECY5kMPz6z1U6NwkbZFgv76vQIDAQAB"
+	  
+    }
+  ],
+  "More":
+  [
+    {
+      "id": 10,
+      "title": "Twibbonize Photo Frame",
+      "image": "https://play-lh.googleusercontent.com/ruhpBed8b1BBANhSBVufNcTEdIewwfegVCea5OQcinmaDfcZ8FoOr2iKlLJi3wCllQ=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.twibbonizephotoframe"
+    },
+    {
+      "id": 9,
+      "title": "Turning Red Panda Wallpapers",
+      "image": "https://play-lh.googleusercontent.com/vFIzLJV-XyQXMSWGrTV0U87gKs6XsjvGO6Rg3Ql23xIw32g5eO4M5ogKovDxPdmSYNo=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.ben10wallpaperhd"
+    },
+    {
+      "id": 8,
+      "title": "Lisa Blackpink Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/zoeCtLYyNCERmViBNofDgAAxk5jldmL-U-jCauWczX_y1yoW1tAIWAqe1HVnsCBHbweg=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.ben10wallpaperhd"
+    },
+    {
+      "id": 7,
+      "title": "Pink Girly Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/MM622RbynlJsGL8G6ZffvLyWcNkdkFgtHRjW1effA4qnxSZI0NEA8rMBseTUEDYJh-8=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.pinkgirlywallpaperhd"
+    },
+    {
+      "id": 6,
+      "title": "Anime Girl Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/CV_SF8nG3-Q4CIyPnpUGz8Xwwg4tnmPSCH53hQRfEsfBzGiBp3yddIAx0mVZtH2US7w=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.ben10wallpaperhd"
+    },
+    {
+      "id": 5,
+      "title": "Deep Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/atl8YV8Pl1e5swoaZt22EHYWwV9sYaF2Ec1BQjv1IOOdk7v3V9m-MrAnXWSiCycvWg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.deepwallpaperhd"
+    },
+    {
+      "id": 4,
+      "title": "Todoroki Shoto Wallpapers 4K",
+      "image": "https://play-lh.googleusercontent.com/kRY8l_1kdzMr3O-AaD3j0fVCcQ9bn_qggREsKgc6zp3UPWOIp9ToHLdtxpF2U0PbhQ=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.todorokishoutowallpapers"
+    },
+    {
+      "id": 3,
+      "title": "Wallpaper Kawaii 4K",
+      "image": "https://play-lh.googleusercontent.com/7pk5Tt-GHCShrwzD6Y3gMRWLcDARlFU95QFToGPqNdKcQSqSLHCIwLKMb9P528GNBw=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.kawaiiwallpapershd"
+    },
+    {
+      "id": 2,
+      "title": "Wallpaper Mecca HD Offline",
+      "image": "https://play-lh.googleusercontent.com/LWn3sCsRg2DxAEcNz_nD7zmm3JSS5hghC9nSM1KGxHU1nymcRWBf4FHaLVBK2XFUVis=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.meccawallpaperhd"
+    },
+    {
+      "id": 1,
+      "title": "BTS Jimin Fake Video Call",
+      "image": "https://play-lh.googleusercontent.com/digkGDk2_uuSfxGEyUKTnGXThtlau7CaiOw1D84Z8FbFGC8Ph2SeUmiNXmGddwbt1fmN=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.btsjiminfakevideocall"
+    }
+  ],
+
+  "Categories":[
+    {
+      "id":1,
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/8b/5c/22/8b5c2237038495c8546977ac134a877b.jpg"
+    }
+  ],
+  "Data":[
+    {
+      "id": 80,
+      "title": "Ben Ten 80",
+      "image": "https://i.pinimg.com/originals/8b/5c/22/8b5c2237038495c8546977ac134a877b.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 79,
+      "title": "Ben Ten 79",
+      "image": "https://i.pinimg.com/originals/6f/fe/87/6ffe87f44c1767eafdb8e4a9a02e33df.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 78,
+      "title": "Ben Ten 78",
+      "image": "https://i.pinimg.com/originals/91/21/c1/9121c1749f7745fa37a86887793f7ad7.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 77,
+      "title": "Ben Ten 77",
+      "image": "https://i.pinimg.com/originals/ae/04/7a/ae047ac1c1762590158f541cd47b2841.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 76,
+      "title": "Ben Ten 76",
+      "image": "https://i.pinimg.com/originals/27/71/d0/2771d014a396b1ab7d660449e3fd8777.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 75,
+      "title": "Ben Ten 75",
+      "image": "https://i.pinimg.com/originals/b8/25/79/b82579067280b914d48e83d4c31ee247.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 74,
+      "title": "Ben Ten 74",
+      "image": "https://i.pinimg.com/originals/8f/88/62/8f88626864a5e49db0c64ccc3e211a97.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 73,
+      "title": "Ben Ten 73",
+      "image": "https://i.pinimg.com/564x/80/74/84/8074844b924420e0ae97a2c42a90c904.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 72,
+      "title": "Ben Ten 72",
+      "image": "https://i.pinimg.com/originals/6d/94/83/6d948346125be9715ac658e952a5497f.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 71,
+      "title": "Ben Ten 71",
+      "image": "https://i.pinimg.com/originals/45/88/9f/45889f5c1c374a9fd12d1ba0e9f53ae5.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 70,
+      "title": "Ben Ten 70",
+      "image": "https://i.pinimg.com/originals/f3/43/67/f343677bcf042e397aadb13b80a26b10.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 69,
+      "title": "Ben Ten 69",
+      "image": "https://i.pinimg.com/originals/84/4d/f6/844df6f4af1f2c0d571b28b0661b55c6.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 68,
+      "title": "Ben Ten 68",
+      "image": "https://i.pinimg.com/originals/10/5a/d8/105ad8c07070056f4b9520cc39409656.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 67,
+      "title": "Ben Ten 67",
+      "image": "https://i.pinimg.com/originals/36/d8/28/36d8287d9c7056766135ea5ec1f292b5.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 66,
+      "title": "Ben Ten 66",
+      "image": "https://i.pinimg.com/originals/03/ff/c6/03ffc6e2f6077ec048f4ec705a9f8057.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 65,
+      "title": "Ben Ten 65",
+      "image": "https://i.pinimg.com/564x/9d/4a/43/9d4a435d46b091c6d87e7bbd622fad20.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 64,
+      "title": "Ben Ten 64",
+      "image": "https://i.pinimg.com/originals/50/69/4b/50694b4f843da7a0d9d69facae71f9e3.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 63,
+      "title": "Ben Ten 63",
+      "image": "https://i.pinimg.com/originals/ac/f0/31/acf0316ab844d1a1e5304a0df556a300.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 62,
+      "title": "Ben Ten 62",
+      "image": "https://i.pinimg.com/originals/6c/02/3c/6c023c68f5de81fb0864e58f76998fed.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 61,
+      "title": "Ben Ten 61",
+      "image": "https://i.pinimg.com/564x/e7/a9/86/e7a9867a7cc1c1f344019833148baf6a.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 60,
+      "title": "Ben Ten 60",
+      "image": "https://i.pinimg.com/originals/67/16/83/671683c300203133bbe95b12f2c4f9aa.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 59,
+      "title": "Ben Ten 59",
+      "image": "https://i.pinimg.com/564x/6d/4d/43/6d4d4393651de91460b10f903125b2e3.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 58,
+      "title": "Ben Ten 58",
+      "image": "https://i.pinimg.com/originals/9c/ab/67/9cab6789f6d67ce9ee39721aea30a404.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 57,
+      "title": "Ben Ten 57",
+      "image": "https://i.pinimg.com/564x/f5/76/1f/f5761fc5d7121d8b52938a196507f290.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 56,
+      "title": "Ben Ten 56",
+      "image": "https://i.pinimg.com/564x/4b/d0/b9/4bd0b9184d7172ba3d33a63dec52f727.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 55,
+      "title": "Ben Ten 55",
+      "image": "https://i.pinimg.com/originals/26/fd/38/26fd38996cb3c0837ae647cacfed1383.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 54,
+      "title": "Ben Ten 54",
+      "image": "https://i.pinimg.com/originals/d9/31/22/d931228d3836eb2170e10128957dffa2.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 53,
+      "title": "Ben Ten 53",
+      "image": "https://i.pinimg.com/564x/27/e2/38/27e2385d3772c801b4a91d4ace5b1897.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 52,
+      "title": "Ben Ten 52",
+      "image": "https://i.pinimg.com/originals/a8/14/bf/a814bf062e28921409c086d503b211f1.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 51,
+      "title": "Ben Ten 51",
+      "image": "https://i.pinimg.com/originals/dc/19/75/dc19755be87ca0f2fddec1665e1f58ae.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id":"50",
+      "title":"Ben Ten 50",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/2c/08/e0/2c08e026f546e39d77c02338ea225255.jpg"
+    },
+    {
+      "id":"49",
+      "title":"Ben Ten 49",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/ed/35/d9/ed35d9ca3b7be872626b6afc28e28d6f.jpg"
+    },
+    {
+      "id":"48",
+      "title":"Ben Ten 48",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/72/93/48/729348662905a2807a30076578ef61f9.jpg"
+    },
+    {
+      "id":"47",
+      "title":"Ben Ten 47",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/b2/d9/76/b2d976e5ea2d96bcc1b2eea738c39dcd.jpg"
+    },
+    {
+      "id":"46",
+      "title":"Ben Ten 46",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/736x/40/54/df/4054df80a2efde6ba89ad5a4aefadb4c.jpg"
+    },
+    {
+      "id":"45",
+      "title":"Ben Ten 45",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/ef/41/39/ef4139937ff443fec57307f30866f089.jpg"
+    },
+    {
+      "id":"44",
+      "title":"Ben Ten 44",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/3f/a1/58/3fa1588050d5656e699ea82a06f2d122.jpg"
+    },
+    {
+      "id":"43",
+      "title":"Ben Ten 43",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/de/3c/cc/de3cccd64d9c8ae71f839aaab13548b2.jpg"
+    },
+    {
+      "id":"42",
+      "title":"Ben Ten 42",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/8a/1f/37/8a1f377f6a2a1a137a9fa5bfe6fedaea.jpg"
+    },
+    {
+      "id":"41",
+      "title":"Ben Ten 41",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/78/27/51/782751e789b16dd0fc34b2c00059ef91.jpg"
+    },
+    {
+      "id":"40",
+      "title":"Ben Ten 40",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/14/09/1e/14091e890faa82ea0a76a3f5fdedd9a8.jpg"
+    },
+    {
+      "id":"39",
+      "title":"Ben Ten 39",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/1f/b3/ee/1fb3ee5776dd3731a5e39fbe000ed6d3.jpg"
+    },
+    {
+      "id":"38",
+      "title":"Ben Ten 38",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/7a/b9/37/7ab9376033b7aa7d1a37457b505b6919.jpg"
+    },
+    {
+      "id":"37",
+      "title":"Ben Ten 37",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/43/f1/f5/43f1f559a0b6bdf57e89c327c12eb58c.jpg"
+    },
+    {
+      "id":"36",
+      "title":"Ben Ten 36",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/de/17/2e/de172e229daf030e2768170dea35ae09.jpg"
+    },
+    {
+      "id":"35",
+      "title":"Ben Ten 35",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/53/17/92/531792375f32136d579b9faacba2b855.jpg"
+    },
+    {
+      "id":"34",
+      "title":"Ben Ten 34",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/1c/a7/ab/1ca7ab2925f61d31aa13df2b70584871.jpg"
+    },
+    {
+      "id":"33",
+      "title":"Ben Ten 33",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/81/28/21/812821ba7dc55d7e3d07621549b73a2f.jpg"
+    },
+    {
+      "id":"32",
+      "title":"Ben Ten 32",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/7c/d6/6d/7cd66d0ef9bbbd2a9c282c68f798fe2a.jpg"
+    },
+    {
+      "id":"31",
+      "title":"Ben Ten 31",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/d8/64/12/d86412be0e61291bb17d8bd7bd10800d.jpg"
+    },
+    {
+      "id":"30",
+      "title":"Ben Ten 30",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/564x/a5/ae/2b/a5ae2b2125110766e4683d9a25e946e4.jpg"
+    },
+    {
+      "id":"29",
+      "title":"Ben Ten 29",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/49/d4/e9/49d4e993edcfd12d1b9e90118e271ea5.jpg"
+    },
+    {
+      "id":"28",
+      "title":"Ben Ten 28",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/91/a5/18/91a51852e6d51e5e93f2b5ea4b39cf66.jpg"
+    },
+    {
+      "id":"27",
+      "title":"Ben Ten 27",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/9c/81/85/9c8185bdb4cc647a40d69e6a4cf3dc4c.jpg"
+    },
+    {
+      "id":"26",
+      "title":"Ben Ten 26",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/0d/53/30/0d53305094c57821fe28f01023167dbe.jpg"
+    },
+    {
+      "id":"25",
+      "title":"Ben Ten 25",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/27/18/36/27183643bfd0fdc0be505e3a531bdfba.jpg"
+    },
+    {
+      "id":"24",
+      "title":"Ben Ten 24",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/89/1c/1c/891c1c2043afd25ca47d30fb17bfe2cf.jpg"
+    },
+    {
+      "id":"23",
+      "title":"Ben Ten 23",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/b5/54/e2/b554e2e9e88151474ee1345b91ad581b.jpg"
+    },
+    {
+      "id":"22",
+      "title":"Ben Ten 22",
+      "name_category":"Ben Ten",
+      "image":"https://fsb.zobj.net/crop.php?r=isze9D-dN3HMTVKLmvzdWAlm4tO99RPXkj5Siq2SwSEOkfFOfzyiBQx6FaHlPtY88WhQuOvkq28ybCKKYSJg2U4znGak53hp98-sJa_WhxMJzKVcgmLEjpkBoPrmsQteFC_b3jrBOGwX85NbydtcTj4M__4u0LfnxHMOBgvEieHMgzHM-AAk6K07c68m2WtO3TSD4xE0KKi5meF0"
+    },
+    {
+      "id":"21",
+      "title":"Ben Ten 21",
+      "name_category":"Ben Ten",
+      "image":"https://fsa.zobj.net/crop.php?r=bi2Q0MV-7SdQyiVBpwRiALpfITT3m2NUBwYebEV2o8jv4kdwQyq1bKGbhnFX09VfV6VRe3bZu5sFFly2EP4ItaBV1p-T9DpT1MK2lhWJ27lCcVOnUNmP8CzC3X3IIIfUSW91S8J1NmNhDcrscHPENPosAa7yekrQy1cP7sNU7yRUDG0yIC53oJ-aZYf0Lth6peo4muCRLe0ouxXS"
+    },
+    {
+      "id":"20",
+      "title":"Ben Ten 20",
+      "name_category":"Ben Ten",
+      "image":"https://fsa.zobj.net/crop.php?r=dCotaZTB0cBdXUNS2LPLicMMKwFwGOn2aPE8TWiqa5-OJKaDWuHO64mrXukBMn41TjEfnUX788DMJuvhDiqpo3AUndO7F2gxEiuyuResoCJTzQJD9v2JxVqxpGcb_KuoQfNwm1vux6vfsSAP3DoGgpqlSU6eFT8hdqmsG96d61LLfnKWaJmp2yhsFz8KTZciiO7U2etEJPwCYbbk"
+    },
+    {
+      "id":"19",
+      "title":"Ben Ten 19",
+      "name_category":"Ben Ten",
+      "image":"https://fsb.zobj.net/crop.php?r=J5-AqHd-1UnBLSbGx8UywXaiP0Gd72sPFK2je73MuZC10UhlAmRGe_Yi8g9pCY4ZyA0rTVrXjySuGnuWAYY1axOFZmE0sdCiC9XKH09qAax-Ph9gwKD37sYDCpLBfYDUI06worWvAxl6OFGKbT8VRIS3xYyjwFWjYtVdcQLsd1csLkJkwEc1DBHn2xcUoXQdWUNNkbu2t2ZJM8nt"
+    },
+    {
+      "id":"18",
+      "title":"Ben Ten 18",
+      "name_category":"Ben Ten",
+      "image":"https://fsa.zobj.net/crop.php?r=p2v682p-0GIji-X2OTnPbQwTq9nXcc0_nUfw_8uluN3DeQziTeNB_PeOBdOJxUjY_aYJVcTD-gTsMiiAsJf4cVkmCSglzVgWtmhMNavB7VJ0IZI1fzUQWHWRtwlxCAwmEvAaN4dHaNCE3ngctX1W053MWqX-wmGdllLBa-0fNAdWMAyQ9jDwP15EZVjZKw2gaI-gWZj5GlU5gh2J"
+    },
+    {
+      "id":"17",
+      "title":"Ben Ten 17",
+      "name_category":"Ben Ten",
+      "image":"https://fsb.zobj.net/crop.php?r=6xannkCjtCyuEZqg_eXouI6ijZGEFRFMre_RL5fyn17jMeTJvtcTr-c_xRt4u98WkZiNpB_Yiorh41Cq552ki7K807s-y8PdCMQnhUX-YlyuAQGFUhDPtMVxDB48FSilburXg1A9SFF5czXA5aK0kAy-QCcn6nIDmbafj7Ai-aYyHTOt5iE0rABbsgCUFB0MtrjPknxF--cVIp6u"
+    },
+    {
+      "id":"16",
+      "title":"Ben Ten 16",
+      "name_category":"Ben Ten",
+      "image":"https://fsa.zobj.net/crop.php?r=gipdO1LT9lTjPlMN6ry0oiJu3sL0uTw_uf1GcIOrtBdrO1PUntaA_2HK48khgr_5XStmhD5l3zAQyK2MBGnFc0aAmhJyIk_moylzPjk8JpKguIU4eKFilV6wVuFtTBf2o-iWSXJDXkoRSjDShkrI34olZl2N2W9x2cWPOMLnu7CM8VctmAxr0ItzotMNGlUbPvE1W9_5LAQiaQLe"
+    },
+    {
+      "id":"15",
+      "title":"Ben Ten 15",
+      "name_category":"Ben Ten",
+      "image":"https://fsb.zobj.net/crop.php?r=kPeZjEvmnQ8bk0_3OwHHBuI3veamHpS4ElysCMtX88ZhcmXa4ALXbeSXeUtTtkO9OrG4YsTHwITVE5mLbGwUmd4HGxCwNHpmNWnUNN-2p37UVCjIfCfATDdSoUXkxvvm68ac1IMaeTUxWsRwTjqUNC_-0HNlBLqqBYPMVjZJalfKz1z6mVjwyGIzYB7p_gK6mca1znBW4d_xRc6i"
+    },
+    {
+      "id":"14",
+      "title":"Ben Ten 14",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/7e/1c/7c/7e1c7cf7d38ff4aa690e157447b698f9.jpg"
+    },
+    {
+      "id":"13",
+      "title":"Ben Ten 13",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/564x/bc/c7/bb/bcc7bb7c3e30490c6fbc58df9a92d629.jpg"
+    },
+    {
+      "id":"12",
+      "title":"Ben Ten 12",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/b1/90/1d/b1901d188d4931afb62b0e83d215317e.jpg"
+    },
+    {
+      "id":"11",
+      "title":"Ben Ten 11",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/94/7c/8c/947c8c083958e1ae308e8da567d701b4.jpg"
+    },
+    {
+      "id":"10",
+      "title":"Ben Ten 10",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/c4/7b/3b/c47b3b0959fa0cc0e9d0561c0a10c0f1.jpg"
+    },
+    {
+      "id":"9",
+      "title":"Ben Ten 9",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/564x/5f/58/c8/5f58c8e21b605065bb709fa75c565ba9.jpg"
+    },
+    {
+      "id":"8",
+      "title":"Ben Ten 8",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/cc/2a/6e/cc2a6ea7f570fdd385e4fc306e354e71.jpg"
+    },
+    {
+      "id":"7",
+      "title":"Ben Ten 7",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/63/d4/38/63d438a87e00bc771b427973c496c3b4.jpg"
+    },
+    {
+      "id":"6",
+      "title":"Ben Ten 6",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/3a/10/61/3a10619c9c144f81be02750c53962171.jpg"
+    },
+    {
+      "id":"5",
+      "title":"Ben Ten 5",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/564x/95/5e/7d/955e7d41d36d5129c4cebb4608ab0486.jpg"
+    },
+    {
+      "id":"4",
+      "title":"Ben Ten 4",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/564x/86/8d/36/868d36580a51f54782056e2983c6e0bb.jpg"
+    },
+    {
+      "id":"3",
+      "title":"Ben Ten 3",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/564x/c0/51/3c/c0513c8a7b31cffa374c28c040554545.jpg"
+    },
+    {
+      "id":"2",
+      "title":"Ben Ten 2",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/05/71/a5/0571a5f391b365ec86bad3f656c96fc0.jpg"
+    },
+    {
+      "id":"1",
+      "title":"Ben Ten 1",
+      "name_category":"Ben Ten",
+      "image":"https://i.pinimg.com/originals/56/e7/61/56e76147bc69cfabeaa726c5b944521f.jpg"
+    }
+  ]
+}
