@@ -121,6 +121,78 @@
     }
   ],
   "Data":[
+	  {
+      "id": 104,
+      "title": "Ben Ten 104",
+      "image": "https://i.pinimg.com/originals/ac/d8/36/acd836cec783e8e70c1744bca822de46.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 103,
+      "title": "Ben Ten 103",
+      "image": "https://i.pinimg.com/originals/84/4d/f6/844df6f4af1f2c0d571b28b0661b55c6.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 102,
+      "title": "Ben Ten 102",
+      "image": "https://i.pinimg.com/564x/95/5e/7d/955e7d41d36d5129c4cebb4608ab0486.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 101,
+      "title": "Ben Ten 101",
+      "image": "https://i.pinimg.com/originals/0e/19/76/0e19766569917d2d1c64e182e6cf5424.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 100,
+      "title": "Ben Ten 100",
+      "image": "https://i.pinimg.com/originals/a4/df/1b/a4df1bb8cbb2644a26f033b5c14e44d2.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 99,
+      "title": "Ben Ten 99",
+      "image": "https://i.pinimg.com/originals/2e/76/9a/2e769a79679e218348bfba2e26b8e94d.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 98,
+      "title": "Ben Ten 98",
+      "image": "https://i.pinimg.com/originals/3d/3f/73/3d3f73f17c6fd7289eaae9158c8173cc.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 97,
+      "title": "Ben Ten 97",
+      "image": "https://i.pinimg.com/originals/a3/78/ed/a378ed508917e51637a72c022ee33d4e.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 96,
+      "title": "Ben Ten 96",
+      "image": "https://i.pinimg.com/originals/37/8a/24/378a24c1a3fefb81040dd25fdbb2bfe8.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 95,
+      "title": "Ben Ten 95",
+      "image": "https://i.pinimg.com/originals/49/81/d5/4981d521da85f023c0b4737788f02cd5.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 94,
+      "title": "Ben Ten 94",
+      "image": "https://i.pinimg.com/originals/72/3b/20/723b208ad2ed4c4b2023035918662a44.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 93,
+      "title": "Ben Ten 93",
+      "image": "https://i.pinimg.com/originals/3d/6b/c8/3d6bc81393db61ed9ab2e8975379f377.jpg",
+      "name_category":"Ben Ten"
+    },
     {
       "id": 92,
       "title": "Ben Ten 92",
