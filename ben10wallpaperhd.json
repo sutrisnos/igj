@@ -1,18 +1,18 @@
 {
   "Ads":[
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"APPLOVIN-D",
 
-      "main_ads_banner": "ca-app-pub-4363364924806206/7502010830",
-      "main_ads_intertitial":"ca-app-pub-4363364924806206/6380500850",
-      "main_native_ads_Admob_or_applovin":"ca-app-pub-4363364924806206/7502010830",
-      "main_ads_rewards":"ca-app-pub-4363364924806206/4253030961",
+      "main_ads_banner": "85644af5539b93a6",
+      "main_ads_intertitial":"ca-app-pub-4363364924806206/6380500850x",
+      "main_native_ads_Admob_or_applovin":"85644af5539b93a6",
+      "main_ads_rewards":"ca-app-pub-4363364924806206/4253030961x",
 
-      "backup_ads_banner":"85644af5539b93a6",
-      "backup_ads_intertitial":"17490ca2b36db43e",
-      "backup_native_ads_Admob_or_applovin":"85644af5539b93a6",
-      "backup_ads_rewards":"4e07361238f92308",
+      "backup_ads_banner":"85644af5539b93a6X",
+      "backup_ads_intertitial":"30d7107cca59d782",
+      "backup_native_ads_Admob_or_applovin":"85644af5539b93a6X",
+      "backup_ads_rewards":"159d0269cb473080",
 
       "interval_for_native":"6",
       "interval_intertitial": 2,
@@ -27,11 +27,11 @@
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
 
-      "high_paying_keyword_1": "insurance",
-      "high_paying_keyword_2": "property",
-      "high_paying_keyword_3": "finance",
-      "high_paying_keyword_4": "sport",
-      "high_paying_keyword_5": "loans",
+      "high_paying_keyword_1": "asuransi, gas, listrik, pinjaman, hipotek, pengacara, donasi, kredit, perangkat lunak, kelas, pemulihan, jual beli, rehabilitas, hosting, transfer, klaim, forex, saham",
+      "high_paying_keyword_2": "insurance, gas, electricity, loans, mortgage, attorney, lawyer, donate, conference call, degree, credit, treatment, software, classes, recovery, trading, rehab, hosting, transfer, cord Blood, claim, computer, website",
+      "high_paying_keyword_3": "electricity",
+      "high_paying_keyword_4": "attorney",
+      "high_paying_keyword_5": "mortgage",
 
       "status_app": "0",
       "link_redirect": "https://",
