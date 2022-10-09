@@ -170,7 +170,43 @@
   ],
 	
   "Data":[
-	  {
+    {
+      "id": 176,
+      "title": "Ben Ten 176",
+      "image": "https://i.pinimg.com/originals/b1/1d/34/b11d34d983a547796eba8de713c4f376.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 175,
+      "title": "Ben Ten 175",
+      "image": "https://i.pinimg.com/originals/8d/6d/61/8d6d612467e7179f0c1ff6d8cf7a0e58.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 174,
+      "title": "Ben Ten 174",
+      "image": "https://i.pinimg.com/564x/d8/22/55/d8225506381f1725fab1eb9a2a9a80b7.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 173,
+      "title": "Ben Ten 173",
+      "image": "https://i.pinimg.com/originals/ec/02/8c/ec028cb0b6b20fe8b144a6cd047753c9.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 172,
+      "title": "Ben Ten 172",
+      "image": "https://i.pinimg.com/564x/12/ce/9b/12ce9b5d6f868d84d2eaff64a834d993.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
+      "id": 171,
+      "title": "Ben Ten 171",
+      "image": "https://i.pinimg.com/originals/44/53/cb/4453cbf1dc59f529dcd2309403631131.jpg",
+      "name_category":"Ben Ten"
+    },
+    {
       "id": 170,
       "title": "Ben Ten 170",
       "image": "https://i.pinimg.com/originals/74/85/b3/7485b37274e3a19294c482d776c35d5e.jpg",
